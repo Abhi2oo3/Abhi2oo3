@@ -1,128 +1,21 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+# 💫 About Me:
+I'm currently working on:<br>- Enhancing my portfolio website to showcase my latest projects and skills in a more interactive way.<br>-Currently, I'm engrossed in the development of a captivating Machine Learning Project called "Mental Fitness Tracker.".<br><br>I'm looking to collaborate on:<br>- I'm actively seeking exciting open source projects that revolve around the fascinating domains of Machine Learning and C++ development.<br>- Innovative web development projects that push the boundaries of user experience.<br>- Any project that involves integrating emerging technologies like AI or ML.<br><br>I'm looking for help with:<br>- Implementing advanced algorithms and data structures in a specific project in C++.<br>- Optimizing the performance of a website to handle high traffic.<br>- Understanding and incorporating best practices in Machine Learning for a sensitive project.<br><br>I'm currently learning:<br>- Exploring the world of machine learning and artificial intelligence to build intelligent applications.<br>- Diving deeper into Artificial intelligence to expand my skill set.<br><br>Ask me about:<br>- Effective strategies for cultivating a consistent coding habit and staying motivated on your coding journey.<br>- Best practices for version control and collaboration in Git and GitHub.<br>- How to maintain a healthy work-life balance while staying productive in coding.<br><br>Fun fact:<br>As a developer, I have a habit of getting so engrossed in coding that I often lose track of time and find myself coding into the early hours of the morning! It's a testament to the passion and dedication we developers have for our craft. 😄<br><br>
 
 
-<!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-dixit03) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhi2oo3&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhi2oo3&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi2oo3&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Hi there, I'm [Abhishek Dixit](https://www.linkedin.com/in/abhishek-dixit-949445237/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+---
+[![](https://visitcount.itsvg.in/api?id=Abhi2oo3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-- 💻 {( Currently working as a back-end developer at [YouthIndiaFoundation](https://www.youthindiafoundation.com/)-NewDelhi, it is a type of [NGO](https://en.wikipedia.org/wiki/Non-governmental_organization) and our team is currently working on a project named as YIE-       School. )}
-- 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhi2003&label=Profile%20views&color=32CD32&style=flat" alt="Abhi2oo3" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/abhirach03/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
-[![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
-[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
-
-- 🌱 I’m currently in love with <b>DeepLearning</b>
-- 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **akankush2000@gmail.com** && **ankush@mackph.com**
-- ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
-technologies to meet future requirements.</br>
-
-
-### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
-
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-
- ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
-
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
-<details>
-   <summary>📃 Resume</summary>
-
- ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
- 📖**Bachelor's of technology-< Information Technology >**
- 
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
-   📖**Secondary Schooling**
- 
-   
-   
-   
- ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
-   
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
-
-   </details>
-   
-### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
-   
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-   ### `Connect with me` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/iabhishekdixit)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/Abhi2oo3)
-<!--[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) -->
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-dixit03/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@ak.ankush2000)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/akankushjnvku)
-</p>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi2oo3" alt="Abhishek's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhi2oo3&show_icons=true&theme=radical" alt="Abhishek's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi2oo3&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
-
-
-
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
