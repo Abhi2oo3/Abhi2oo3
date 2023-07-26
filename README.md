@@ -1,8 +1,11 @@
 <!--![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.png)-->
 
-![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<p align="center">
+  <img src="https://i.giphy.com/media/zhYSVCirREeIZtONCI/200w.webp"  alt="Image Description">
+</p>
 
-# <p align="center">👋Hi there, I'm [Abhishek Dixit](https://www.linkedin.com/in/abhishek-dixit03/)</p><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+# <p align="center">👋Hi there, I'm [Abhishek Dixit](https://www.linkedin.com/in/abhishek-dixit03/)</p><!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 I am an intermediate web developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
