@@ -17,46 +17,45 @@ As a C++ enthusiast and Python developer, I have honed my expertise while workin
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/princliv/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/abhirach03/)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/beac84b4-5bb9-4ab4-95f0-1842326662d5)
-<!--[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
-[![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
-[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)-->
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/abhirach03/practice)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/abhirach03?hr_r=1)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@abhirach03)
+[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com/users/22292776/abhishek-dixit)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/iabhishekdixit)
 
-- 🌱 I’m currently in love with <b>Cyber Security & IoT(Internet Of Things</b>
-- 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Cyber Security**, **Cloud Computing** and **Internet Of Things**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **ankitkumar1990asap@gmail.com** && **itzprincliv@gmail.com**
-- ⚡ Fun fact: I love designing and travelling to explore new places.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
-technologies to meet future requirements.</br>
+🌱 At present, I am deeply immersed in the fascinating realms of <b>Machine Learning, Artificial Intelligence, and Web Development</b>. Additionally, I'm eagerly exploring the exciting world of <b>Web3</b> technology.
+
+💬 If you have any questions related to Web Development, C++, Python, or Machine Learning, feel free to ask me. I'd be more than happy to share my knowledge and insights.
+
+👯 Currently, I'm actively seeking opportunities to collaborate on <b>Open Source Projects</b>. Working together with like-minded individuals to contribute to the open-source community is something I'm enthusiastic about.
+
+📫 You can easily reach out to me at: <b>abhirach03@gmail.com</b>.
+
+⚡ As a dedicated developer, I have an intriguing fun fact to share. Apart from my passion for coding, I find solace and spiritual nourishment by regularly reading religious scriptures and chanting the holy name of Krishna. This practice brings a sense of peace and mindfulness, helping me stay grounded and focused amidst the fast-paced world of technology. It's a beautiful way to balance my enthusiasm for coding with a deeper connection to my spiritual beliefs.
+
+❤️ My ultimate aspiration revolves around creating a thriving community that empowers future generations by imparting knowledge on cutting-edge technologies. My goal is to ensure that they are well-prepared to meet future challenges and requirements successfully.
 
 
 ### `My Reseach Interest:`
 <!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">-->
 
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- Natural Language Processing (NLP)
+- Reinforcement Learning
+- Explainable AI
+- Cloud Computing
+- Edge AI and Federated Learning
 
  ### `I am open to:`
-
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- Collaborating on exciting projects in any domain.
+- Engaging in both development and research-oriented machine learning projects.
+- Exploring opportunities for research internships.
+- Offering my expertise as a reviewer or PC (Program Committee) member for Machine Learning/Data Mining journals or conferences.
+- Feel free to reach out to me with any opportunities or ideas that align with these interests! I am eager to contribute and participate in impactful endeavors in the field of Machine Learning and beyond.
 
 <details>
-   <summary>📝 Resume</summary>
+   <summary> ![image](https://github.com/Abhi2oo3/Abhi2oo3/assets/102307019/236fc626-e0cc-4cb3-8c7f-bf6a4b683239) Resume</summary>
 
  ## Education
  <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
