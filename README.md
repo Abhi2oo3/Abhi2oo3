@@ -7,14 +7,13 @@
 
 # <p align="center">👋Hi there, I'm [Abhishek Dixit](https://www.linkedin.com/in/abhishek-dixit03/)</p><!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am an intermediate web developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
-
+As a C++ enthusiast and Python developer, I have honed my expertise while working in the field of AI and ML. Over the years, I've cultivated my passion for programming and coding, delving into complex challenges with enthusiasm. My main objective revolves around creating innovative solutions for cutting-edge projects in artificial intelligence and machine learning. I thrive on the opportunity to tackle new challenges that drive my continuous growth and look forward to collaborating with like-minded individuals on exciting ventures in this field.
 
 - 💻 {( Currently I am pursuing B.TECH in Computer Science And Engineering at [Roorkee College Of Engineering](https://www.rceroorkee.in/)-Roorkee. )}
-- 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
+- 🧑‍ {(Throughout my journey, I've possessed a unique gift for viewing things from diverse angles, always striving to discover novelty in every aspect. Each day, I eagerly anticipate the prospect of multiple opportunities to learn and grow, which fills my heart with happiness. I find immense inspiration in exploring emerging technologies, as they not only provide valuable knowledge but also offer a chance to derive insights from their intricacies. Embracing this passion for learning, I am eager to seize every occasion to further expand my horizons and unlock new potentials.)}
 - 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princliv&label=Profile%20views&color=32CD32&style=flat" alt="princliv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhi2oo3&label=Profile%20views&color=32CD32&style=flat" alt="Abhi2oo3" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
