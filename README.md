@@ -281,43 +281,38 @@ As a C++ enthusiast and Python developer, I have honed my expertise while workin
 	</center>
 - **Others**
 	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Linux</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>git</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-					</td>
-     					<td width="25%" align="center">
-						<span><strong>github</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
-					</td>
-     					<!-- <td width="25%" align="center">
-						<span><strong>Bitbucket</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
-					</td> -->
+  <table>
+    <tbody>
+      <tr>
+        <td width="25%" align="center">
+          <span><strong>Linux</strong></span><br/>
+          <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+        </td>
+        <td width="25%" align="center">
+          <span><strong>git</strong></span><br/>
+          <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+        </td>
+        <td width="25%" align="center">
+          <span><strong>github</strong></span><br/>
+          <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+        </td>
+        <td width="25%" align="center">
+          <span><strong>Arduino</strong></span><br/>
+          <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+        </td>
+        <td width="25%" align="center">
+          <span><strong>Flask</strong></span><br/>
+          <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+        </td>
+        <td width="25%" align="center">
+          <span><strong>Matlab</strong></span><br/>
+          <img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</center>
 
-  					<td width="25%" align="center">
-						<span><strong>Arduino</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
-					</td>
-    
-  					<td width="25%" align="center">
-						<span><strong>Flask</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-					</td> -->
-<td width="25%" align="center">
-						<span><strong>Matlab</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
    
 <!--### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
    
