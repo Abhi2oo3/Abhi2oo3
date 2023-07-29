@@ -58,7 +58,7 @@ As a C++ enthusiast and Python developer, I have honed my expertise while workin
    <summary>Resume</summary>
 
  ## Education
- <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+ <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/650464/screenshots/5932778/apply-for-job-icon-motion-graphic_v1.gif">
 
   - 📍 **Uttarakhand Technical University, Dehradun** < 2021-2025 >\
    📖**Bechelor In Technology-< Computer Science And Engineering >**
