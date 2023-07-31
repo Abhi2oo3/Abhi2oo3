@@ -39,7 +39,7 @@ As a C++ enthusiast and Python developer, I have honed my expertise while workin
 
 
 ### `My Reseach Interest:`
-<!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">-->
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6_w200.webp">
 
 - Natural Language Processing (NLP)
 - Reinforcement Learning
@@ -58,7 +58,7 @@ As a C++ enthusiast and Python developer, I have honed my expertise while workin
    <summary>Resume</summary>
 
  ## Education
- <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/650464/screenshots/5932778/apply-for-job-icon-motion-graphic_v1.gif">
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/650464/screenshots/5932778/apply-for-job-icon-motion-graphic_v1.gif">
 
   - 📍 **Uttarakhand Technical University, Dehradun** < 2021-2025 >\
    📖**Bechelor In Technology-< Computer Science And Engineering >**
