@@ -322,6 +322,9 @@ As a C++ enthusiast and Python developer, I have honed my expertise while workin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhi2oo3&theme=black&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi2oo3&theme=black&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# HactoberFest Badge Board
+[![An image of @abhi2oo3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi2oo3)](https://holopin.io/@abhi2oo3)
+
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
